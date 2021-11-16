@@ -18,7 +18,7 @@ Nuclei segmentation, especially for tissues, is a challenging and unsolved probl
 **or read the article here.** https://www.biorxiv.org/content/10.1101/2021.04.02.438285v1 
 
 ![]({{ site.baseurl }}/images/unmicst2.png)
-This model has been trained on 6 issue types that appeared to encapsulate the different morphologies of the entire tissue microarray: 1) lung adenocarcinoma, 2) non-neoplastic prostate, 3) non-neoplastic small intestine, 4) tonsil, 5) glioblastoma, and 6) colon adenocarcinoma. Also, single and dual channels are possible through a DNA channel and nuclear envelope staining (lamin B and nucleoporin 98) for improved accuracy. Intentionally defocused planes and saturated pixels were also added for better dealing with real-world artefacts.
+This model has been trained on 6 tissue types that appeared to encapsulate the different morphologies of the entire tissue microarray: 1) lung adenocarcinoma, 2) non-neoplastic prostate, 3) non-neoplastic small intestine, 4) tonsil, 5) glioblastoma, and 6) colon adenocarcinoma. Also, single and dual channels are possible through a DNA channel and nuclear envelope staining (lamin B and nucleoporin 98) for improved accuracy. Intentionally defocused planes and saturated pixels were also added for better dealing with real-world artefacts.
 
 
 ## Prerequisite files
